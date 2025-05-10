@@ -1,0 +1,11 @@
+streamlit
+uvicorn
+selenium
+beautifulsoup4
+faiss-cpu
+cohere
+webdriver-manager
+pydantic
+fastapi
+pathlib
+dotenv
