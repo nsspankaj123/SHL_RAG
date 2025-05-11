@@ -48,7 +48,7 @@ JSON – Structured output
 
 ## 📬 Contact
 Feel free to reach out via LinkedIn or open an issue if you'd like to collaborate!
-https://www.linkedin.com/in/nagaram-kridey-34230b296/
+www.linkedin.com/in/nsspankaj
 
 ---
 
